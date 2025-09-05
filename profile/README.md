@@ -13,8 +13,9 @@ I am proficient in multiple languages, including C, C++, Python, HTML, JavaScrip
 ## 🔥 I also offer advanced courses, one-to-one personalized coaching, project job offers. 
 Interested? Than schedule an appointment: **💬 Contact [EMAIL NOT EXISTING](mailto:info@gmail.com)**
 
-### 🪙 Donations are Welcome!
+## 🪙 Donations are Welcome!
 If you find this Repository helpful, you can support my work with a small donation.
+
 **₿ Bitcoin:** `bc1q...`
 
 ## 🚀 Projects & Contributions
